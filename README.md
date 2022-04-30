@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1GBpnIJASfpAc3F-V2PXVZXFgLdX8HYo6GTHX7jshq04/edit?usp=sharing](https://docs.google.com/document/d/1GBpnIJASfpAc3F-V2PXVZXFgLdX8HYo6GTHX7jshq04/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I have good in communicating people**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
