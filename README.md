@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **navneet638864@gmail.com**
--  📄 Know about my portfolio [portfolionavneet.netlify.app](portfolionavneet.netlify.app)
+-  📄 Know about my portfolio [https://portfolionavneet.netlify.app/](https://portfolionavneet.netlify.app/)
 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1GBpnIJASfpAc3F-V2PXVZXFgLdX8HYo6GTHX7jshq04/edit?usp=sharing](https://docs.google.com/document/d/1GBpnIJASfpAc3F-V2PXVZXFgLdX8HYo6GTHX7jshq04/edit?usp=sharing)
